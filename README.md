@@ -3,6 +3,9 @@ An open-source sans-serif font inspired by the hand lettered MLK memorial march 
 
 ### ChangeLog
 
+June 8, 2020 - Version 0.2
+- Added # character
+
 June 3, 2020 - Version 0.2
 - Added initial repo
 - Fixed descender values
