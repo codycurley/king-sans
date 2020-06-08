@@ -1,6 +1,6 @@
 ![King Sans](https://github.com/codycurley/king-sans/blob/master/specimen/specimen-title.png?raw=true)
 
-<p align="center">An open-source sans-serif font inspired by the hand lettered MLK memorial march placards.</p>
+<p align="center">A sans-serif font inspired by the hand lettered MLK memorial march placards.</p>
 
 ![I AM A MAN POSTER](https://github.com/codycurley/king-sans/blob/master/specimen/specimen-iam.png?raw=true)
 ![80PT](https://github.com/codycurley/king-sans/blob/master/specimen/specimen-glyphs-80pt.png?raw=true)
