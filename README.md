@@ -8,7 +8,7 @@
 
 ### ChangeLog
 
-June 8, 2020 - Version 0.2
+June 8, 2020 - Version 0.3
 - Added # character
 
 June 3, 2020 - Version 0.2
